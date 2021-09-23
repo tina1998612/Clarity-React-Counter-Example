@@ -5,7 +5,7 @@ import Config from "../config";
 async function play() {
   return openContractCall({
     onCancel: () => alert("Cancelled!"),
-    onFinish: (tx: FinishedTxData) => console.log("tx sent", tx), // TODO: how do we bring the tx object out of the button?
+    onFinish: (tx: FinishedTxData) => console.log("tx sent", tx),
     contractAddress: Config.contractAddress,
     contractName: Config.contractName,
     functionName: "count-up",
