@@ -20,6 +20,12 @@ yarn
 yarn start
 ```
 
+### Get Testnet STX
+
+To be able to send transactions that needs STX as the transaction fee
+
+https://explorer.stacks.co/sandbox/faucet?chain=testnet
+
 ### Smart Contract on Testnet
 
 https://explorer.stacks.co/txid/0x4f080e895c26c930cc6eefeb97eb6b46f4243fb58d21647e4dd9d20a2d839bd8?chain=testnet
