@@ -20,6 +20,10 @@ yarn
 yarn start
 ```
 
+### Smart Contract on Testnet
+
+https://explorer.stacks.co/txid/0x4f080e895c26c930cc6eefeb97eb6b46f4243fb58d21647e4dd9d20a2d839bd8?chain=testnet
+
 ### Sample Transaction
 
 https://explorer.stacks.co/txid/0x54662942aa01b84caa19a17465b976bf48693dbf65fee9e6971f1fab95711387?chain=testnet
