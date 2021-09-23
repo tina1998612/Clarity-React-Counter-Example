@@ -32,7 +32,7 @@ cd clarity-example
 npx create-react-app myapp
 npm init clarity-starter
 cd myapp
-yarn add @stacks/auth @stacks/connect @stacks/connect-react
+yarn add @stacks/auth @stacks/connect
 ```
 
 ## Other Dev Tools
